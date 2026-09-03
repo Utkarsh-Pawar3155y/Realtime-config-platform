@@ -1,0 +1,5 @@
+{
+  "TIMEOUT": 30,
+  "LOG_LEVEL": "INFO",
+  "MAX_RETRIES": 25
+}

@@ -1,0 +1,6 @@
+{
+  "MAINTENANCE_MODE": "True",
+  "WORD_LIMIT": 50,
+  "MAX_NOTES": 5,
+  "LOG_LEVEL": "INFO"
+}
